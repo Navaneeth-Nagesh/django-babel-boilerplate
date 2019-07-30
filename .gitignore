@@ -1,0 +1,5 @@
+build/
+dist/
+__pycache__
+django_babel_boilerplate.egg-info/
+.vscode
